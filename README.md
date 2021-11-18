@@ -55,8 +55,8 @@
    `python manage.py runserver`
 
  ### Acknowledments
-- [Rhea Sera Rodrigues](https://www.linkedin.com/in/rhea-sera-rodrigues-3222b41a9/)
 - [Reuben Coutinho](https://www.linkedin.com/in/reuben-c-b89ba295)
 - [Anshika Gupta](https://www.linkedin.com/in/anshikagupta08/)
 - [Ankita Tripathi]()
-- 
+- [Rhea Sera Rodrigues](https://www.linkedin.com/in/rhea-sera-rodrigues-3222b41a9/)
+
